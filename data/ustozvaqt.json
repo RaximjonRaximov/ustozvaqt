@@ -1,0 +1,45 @@
+{
+  "subjects": [
+    "Matematika",
+    "Ingliz tili",
+    "Fizika",
+    "Kimyo",
+    "IT va dasturlash"
+  ],
+  "tutors": [
+    {
+      "id": "t1",
+      "name": "Madina Karimova",
+      "subject": "Matematika",
+      "area": "Yunusobod",
+      "price": 90000,
+      "rating": 4.9,
+      "experience": "7 yil",
+      "bio": "Abituriyentlar va 7–11-sinf o‘quvchilari bilan ishlaydi.",
+      "format": "online yoki oflayn"
+    },
+    {
+      "id": "t2",
+      "name": "Jasur Aliyev",
+      "subject": "Ingliz tili",
+      "area": "Chilonzor",
+      "price": 110000,
+      "rating": 4.8,
+      "experience": "5 yil",
+      "bio": "IELTS va kundalik muloqot uchun individual darslar.",
+      "format": "online"
+    },
+    {
+      "id": "t3",
+      "name": "Zarina Sobirova",
+      "subject": "IT va dasturlash",
+      "area": "Mirzo Ulug‘bek",
+      "price": 130000,
+      "rating": 5,
+      "experience": "6 yil",
+      "bio": "Python, frontend va boshlang‘ich dasturlashni o‘rgatadi.",
+      "format": "online yoki oflayn"
+    }
+  ],
+  "bookings": []
+}
